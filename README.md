@@ -1,0 +1,3 @@
+1.By placing the MultipleValuesUnselectwithSingleDropdown.js file into our App.js file, then return the component which we have exported from the MultipleValuesUnselectwithSingleDropdown.js file as JSX, then we can see the result of this project by running the code.  
+2.Ensure have you installed the react-select library from NPM packages, then only will get the appropriate results those we expected.  
+3.I have the districts drop down based on the selected ditricts data will be filtered and display in the UI, I can select & unselect all at time or can be select & unselect multiple districts individually here.  
